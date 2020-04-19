@@ -10,7 +10,7 @@ This notebook is for my daily medicine notes. If there are any inappropriate iss
 
 #### The first is title, you can use # to make a title.
 
-```bash
+```markdown
 # is for the first class title.
 ## is for the second class title.
 ... ... and so on
@@ -22,7 +22,7 @@ This notebook is for my daily medicine notes. If there are any inappropriate iss
 
 ##### List of disorder:
 
-```bash
+```markdown
 To make a list of disorder, symbols like -, + or * is ok!
 - Red
 - Green
@@ -37,7 +37,7 @@ To make a list of disorder, symbols like -, + or * is ok!
 
 ##### ordered list:
 
-```bash
+```markdown
 To make a ordered list, just type 1, 2, 3 is ok!
 1. Red
 2. Green
@@ -48,7 +48,7 @@ To make a ordered list, just type 1, 2, 3 is ok!
 
 #### To quote a sentence, use the >  symbol.
 
-```bash
+```markdown
 > This is a quote
 > You can use mutiple > like >>> if necessary
 > And a nested usage is allowed like this: > #### This is a forth title nested in a quote
@@ -58,7 +58,7 @@ To make a ordered list, just type 1, 2, 3 is ok!
 
 #### To emphasize a word or a sentence, just add **  or __ (on both side).
 
-```bash
+```markdown
 **A bold text**
 __Another bold text__
 ```
@@ -67,7 +67,7 @@ __Another bold text__
 
 #### To create a Italic format, type just one * or _ on both side.
 
-```bash
+```markdown
 *A italic text*
 _Another italic text_
 ```
@@ -76,7 +76,7 @@ _Another italic text_
 
 #### Now I just want to make a delete effect on text. Use ~~
 
-```bash
+```markdown
 ~~A text seems has been 'deleted'~~
 ```
 
@@ -84,7 +84,7 @@ _Another italic text_
 
 #### To insert a picture.
 
-```bash
+```markdown
 ![text](address)
 ```
 
@@ -92,7 +92,7 @@ _Another italic text_
 
 #### Or you may want to add a link.
 
-```bash
+```markdown
 [Text](link)
 simply <link> is ok!
 ```
