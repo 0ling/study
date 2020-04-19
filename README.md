@@ -8,6 +8,8 @@ This notebook is for my daily medicine notes. If there are any inappropriate iss
 
 ### Here I want to add some markdown syntax, for my future editing.
 
+
+
 #### The first is title, you can use # to make a title.
 
 ```markdown
@@ -97,8 +99,41 @@ _Another italic text_
 simply <link> is ok!
 ```
 
+
+
+#### To insert a form.
+
+```markdown
+|C1|C2|C3|
+|:---|:--:|---:|
+|Left|Middle|Right|
+```
+
+
+
+#### To insert a divider, use ***, ---, or ___.
+
+```markdown
+***
+---
+___
+```
+
+
+
+#### To add a footnote, use [^].
+
+```markdown
+This would be an example[^1].
+
+[^1]: footnote here, but it seems not so useful.
+```
+
+
+
 Here I am a few tired, update for the next time. Thank you.
 
-
-
 ##### *Reference: click [Here](https://www.jianshu.com/p/82e730892d42)*
+
+
+
