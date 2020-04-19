@@ -48,7 +48,7 @@ To make a ordered list, just type 1, 2, 3 is ok!
 
 
 
-#### To quote a sentence, use the >  symbol.
+#### To quote a sentence, use the > symbol.
 
 ```markdown
 > This is a quote
