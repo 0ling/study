@@ -1,6 +1,6 @@
 # Liver cirrhosis (肝硬化)
 
-# Table of Contents
+## Table of Contents
 
 - [病因](#病因)
 - [临床表现](#临床表现)
